@@ -4,7 +4,7 @@
 
 .banner {
 
-    background-image: url(./MyPortfolio/Portfolio-images/img1.jpg);
+    background-image: url(../MyPortfolio/Portfolio-images/img1.jpg);
     background-size: cover;
     padding: 250px;
     background-repeat: no-repeat;
